@@ -276,4 +276,5 @@ class _InventoryHomePageState extends State<InventoryHomePage> {
       print("Error deleting item: $e");
     }
   }
-}
+}// ALL CRUD OPERATIONS UPDATED
+
