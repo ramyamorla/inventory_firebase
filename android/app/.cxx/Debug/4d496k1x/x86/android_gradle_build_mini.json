@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/ramyamorla/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/ramyamorla/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/ramyamorla/Desktop/MAD/InventoryManagementApp_ClassActivity12-main/android/app/.cxx/Debug/4d496k1x/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/ramyamorla/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/ramyamorla/Desktop/MAD/InventoryManagementApp_ClassActivity12-main/android/app/.cxx/Debug/4d496k1x/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

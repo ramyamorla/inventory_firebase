@@ -1,0 +1,2 @@
+/Users/ramyamorla/Desktop/MAD/InventoryManagementApp_ClassActivity12-main/android/app/.cxx/Debug/4d496k1x/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/ramyamorla/Desktop/MAD/InventoryManagementApp_ClassActivity12-main/android/app/.cxx/Debug/4d496k1x/armeabi-v7a/CMakeFiles/rebuild_cache.dir
